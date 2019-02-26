@@ -1,2 +1,2 @@
 # deeplearning.ai
-deeplearning specilization course on coursera
+programming assignments of deeplearning specilization course on coursera
